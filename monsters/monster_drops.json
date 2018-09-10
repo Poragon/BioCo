@@ -5,7 +5,9 @@
 	"id": "mon_zombie_scientist_death_drops",
 	"copy-from": "mon_zombie_scientist_death_drops",
 	"entries": [
-		{ "group": "BioCo_Software", "prob": 10 }
+		{ "group": "BioCo_Software", "prob": 10 },
+		{ "item": "Software_BioCo_Experimental_Designs", "prob": 1}
+		
 	]
 	},
 	{

@@ -234,6 +234,7 @@
   ],
    "tools": [
     [ [ "Software_BioCo_Experimental_Designs", -1 ] ],
+	[ [ "Software_BioCo_Medical_Designs", -1 ] ],
 	[ [ "laptop", -1 ],
 	  [ "control_laptop", -1 ] ]
     ],
@@ -264,8 +265,6 @@
     [ [ "Software_BioCo_Experimental_Designs", -1 ] ]
     ],
   "components": [
-    [ [ "burnt_out_bionic", 2 ] ],
-	[ [ "e_scrap", 2 ] ],
 	[ [ "bio_reactor_upgrade", 1 ] ],
 	[ [ "bio_reactor", 1 ] ]
   ]

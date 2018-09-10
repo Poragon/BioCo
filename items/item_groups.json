@@ -5,7 +5,6 @@
     "items":[
 		{ "item": "Software_BioCo_Civilian_Designs", "prob": 7 },
 		{ "item": "Software_BioCo_Military_Designs", "prob": 3 },
-		{ "item": "Software_BioCo_Experimental_Designs", "prob": 1 },
 		{ "item": "Software_BioCo_Medical_Designs", "prob": 5 }
 	]
   }
