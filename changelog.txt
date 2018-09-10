@@ -1,3 +1,21 @@
+#v 1.0.1 9/10/18
+
+
+
+#Additions
+
+
+	Added bionics to BioCo Experimental Designs Softwares
+		- Added Internal Reactor
+		- Added Plutonium Filter
+		- Added Reactor Upgrade
+		- Added Advance Reactor
+	Added recipies for new bionics
+
+
+
+	
+
 #v 1.0 (9/10/18)
 
 
