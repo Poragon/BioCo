@@ -1,0 +1,166 @@
+[
+{
+"//": "Civilian Bionics",
+  "type" : "recipe",
+  "result": "bio_alarm",
+  "category": "CC_ELECTRONIC",
+  "subcategory": "CSC_ELECTRONIC_CBMS",
+  "skill_used": "electronics",
+  "skills_required": [ "computer", 5 ],
+  "difficulty": 5,
+  "time": 60000,
+  "decomp_learn": 5,
+  "book_learn": [[ "recipe_lab_elec", 6 ] , [ "recipe_mil_augs", 5 ]],
+  "qualities":[
+    {"id":"BIOASSEMBLE","level":3}
+  ],
+  "tools": [
+    [ [ "Software_BioCo_Civilian_Designs", -1 ] ]
+  ],
+  "components": [
+    [ [ "burnt_out_bionic", 2 ] ],
+	[ [ "e_scrap", 2 ] ]
+  ]
+},
+{
+  "type" : "recipe",
+  "result": "bio_cable",
+  "category": "CC_ELECTRONIC",
+  "subcategory": "CSC_ELECTRONIC_CBMS",
+  "skill_used": "electronics",
+  "skills_required": [ "computer", 5 ],
+  "difficulty": 5,
+  "time": 60000,
+  "decomp_learn": 5,
+  "book_learn": [[ "recipe_lab_elec", 6 ] , [ "recipe_mil_augs", 5 ]],
+  "qualities":[
+    {"id":"BIOASSEMBLE","level":3}
+  ],
+   "tools": [
+    [ [ "Software_BioCo_Civilian_Designs", -1 ] ]
+  ],
+  "components": [
+    [ [ "burnt_out_bionic", 2 ] ],
+	[ [ "e_scrap", 2 ] ],
+	[ [ "power_supply", 1 ] ],
+	[ [ "jumper_cable", 1 ] ]
+  ]
+},
+{
+  "type" : "recipe",
+  "result": "bio_remote",
+  "category": "CC_ELECTRONIC",
+  "subcategory": "CSC_ELECTRONIC_CBMS",
+  "skill_used": "electronics",
+  "skills_required": [ "computer", 5 ],
+  "difficulty": 5,
+  "time": 60000,
+  "decomp_learn": 5,
+  "book_learn": [[ "recipe_lab_elec", 6 ] , [ "recipe_mil_augs", 5 ]],
+  "qualities":[
+    {"id":"BIOASSEMBLE","level":3}
+  ],
+   "tools": [
+    [ [ "Software_BioCo_Civilian_Designs", -1 ] ]
+  ],
+  "components": [
+    [ [ "burnt_out_bionic", 2 ] ],
+	[ [ "e_scrap", 2 ] ],
+	[ [ "transponder", 1 ] ],
+	[ [ "receiver", 1 ] ]
+  ]
+},
+{
+  "type" : "recipe",
+  "result": "bio_storage",
+  "category": "CC_ELECTRONIC",
+  "subcategory": "CSC_ELECTRONIC_CBMS",
+  "skill_used": "electronics",
+  "skills_required": [ "computer", 5 ],
+  "difficulty": 5,
+  "time": 60000,
+  "decomp_learn": 5,
+  "book_learn": [[ "recipe_lab_elec", 6 ] , [ "recipe_mil_augs", 5 ]],
+  "qualities":[
+    {"id":"BIOASSEMBLE","level":3}
+  ],
+   "tools": [
+    [ [ "Software_BioCo_Civilian_Designs", -1 ] ]
+  ],
+  "components": [
+    [ [ "burnt_out_bionic", 2 ] ],
+	[ [ "e_scrap", 2 ] ],
+	[ [ "metal_tank_little", 1 ] ]
+  ]
+},
+{
+  "type" : "recipe",
+  "result": "bio_tools",
+  "category": "CC_ELECTRONIC",
+  "subcategory": "CSC_ELECTRONIC_CBMS",
+  "skill_used": "electronics",
+  "skills_required": [ "computer", 5 ],
+  "difficulty": 5,
+  "time": 60000,
+  "decomp_learn": 5,
+  "book_learn": [[ "recipe_lab_elec", 6 ] , [ "recipe_mil_augs", 5 ]],
+  "qualities":[
+    {"id":"BIOASSEMBLE","level":3}
+  ],
+   "tools": [
+    [ [ "Software_BioCo_Civilian_Designs", -1 ] ]
+  ],
+  "components": [
+    [ [ "burnt_out_bionic", 2 ] ],
+	[ [ "e_scrap", 2 ] ],
+	[ [ "scrap", 3 ] ],
+	[ [ "element", 2 ] ]
+  ]
+},
+{
+  "type" : "recipe",
+  "result": "bio_watch",
+  "category": "CC_ELECTRONIC",
+  "subcategory": "CSC_ELECTRONIC_CBMS",
+  "skill_used": "electronics",
+  "skills_required": [ "computer", 5 ],
+  "difficulty": 5,
+  "time": 60000,
+  "decomp_learn": 5,
+  "book_learn": [[ "recipe_lab_elec", 6 ] , [ "recipe_mil_augs", 5 ]],
+  "qualities":[
+    {"id":"BIOASSEMBLE","level":3}
+  ],
+   "tools": [
+    [ [ "Software_BioCo_Civilian_Designs", -1 ] ]
+  ],
+  "components": [
+    [ [ "burnt_out_bionic", 2 ] ],
+	[ [ "e_scrap", 2 ] ]
+  ]
+},
+{
+  "//": "Medical Bionics",
+  "type" : "recipe",
+  "result": "bio_blood_anal",
+  "category": "CC_ELECTRONIC",
+  "subcategory": "CSC_ELECTRONIC_CBMS",
+  "skill_used": "electronics",
+  "skills_required": [ "computer", 5 ],
+  "difficulty": 5,
+  "time": 60000,
+  "decomp_learn": 5,
+  "book_learn": [[ "recipe_lab_elec", 6 ] , [ "recipe_mil_augs", 5 ]],
+  "qualities":[
+    {"id":"BIOASSEMBLE","level":3}
+  ],
+   "tools": [
+    [ [ "Software_BioCo_Medical_Designs", -1 ] ]
+  ],
+  "components": [
+    [ [ "burnt_out_bionic", 2 ] ],
+	[ [ "e_scrap", 2 ] ],
+	[ [ "vacutainer", 1 ] ]
+  ]
+}
+]
