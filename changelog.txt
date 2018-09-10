@@ -1,0 +1,42 @@
+#v 1.0 (9/10/18)
+
+
+
+#Additions
+
+
+	Added BioCo Assembly Machine
+		- Exists as two tools, and a furniture
+		- Must be created in crafting, then set up in construction to be used
+		- Base machine for all BioCo construction
+		- Added recipie for item
+	Added BioCo Designs softwares
+		- Comes in Civilan, Medical, Military, and Experimental varities
+		- Gives functionality to BioCo Assembly Machine
+	Added item group BioCo Softwares
+		- Contains previously mentioned BioCo Softwares
+	Added BioCo Softwares item group to zombie scientist and zombie technican drops
+	Added Bionics to BioCo Civilan Designs softwares
+		- Added Bionic Alarm
+		- Added Cable Charger System
+		- Added Bionic Remote Control
+		- Added Bionic Storage
+		- Added Integrated Toolset
+		- Added Bionic Clock
+	Added Bionics to BioCo Medical Designs softwares
+		- Added Blood Analysis
+	Added recipies for all newly added bioncs
+	Added Autonomous Machine Parts
+		- Heavy and bulky machine parts for percision crafting machines
+	Added BioCo AutoDoc Core
+		- Machine bit harvested from AutoDoc to create BioCo Assembly Machine
+		- We can program AutoDocs, so we obviously can manipulate this core
+	Added tool quality BIOASSEMBLE for BioCo Assembly Machine
+		
+		
+# Changes
+
+
+	Changed AutoDoc 
+		- Disasembly now yeild Autonomous Machine Parts 
+		- Disasembly now yeilds BioCo AutoDoc Core
