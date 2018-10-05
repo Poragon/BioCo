@@ -30,5 +30,13 @@
         "name": "BioCo Medical Designs",
         "description": "A set of comprehensive blueprints loaded onto a USB which detail the medical CBMs created by BioCo. While gibberish to you, one of BioCo's assembly machines could read this.",
         "price": 3000
+    },
+	{
+        "id": "Software_BioCo_Power_Storage_Designs",
+        "copy-from": "software",
+        "type":"GENERIC",
+        "name": "BioCo Medical Designs",
+        "description": "A set of comprehensive blueprints loaded onto a USB which detail the power storage CBMs created by BioCo. While gibberish to you, one of BioCo's assembly machines could read this.",
+        "price": 3000
     }
 ]
