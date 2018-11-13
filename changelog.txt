@@ -1,3 +1,10 @@
+# v1.5.2
+
+BioCo Additions
+
+	Added fireextinguisher bionic
+	Added tileset to BioCo standalone mod
+
 # v1.5 11/10/2018
 
 BioCo Additions (Whoo Boy)
